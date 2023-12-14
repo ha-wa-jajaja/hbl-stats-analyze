@@ -60,7 +60,6 @@ export const getAllTeams = async () => {
         );
 
         if (currIdx == 0) {
-            // console.log(allGames);
             getRoundAvg(allGames);
         }
 

@@ -1,0 +1,18 @@
+export const boxStatFields = [
+    "Pts",
+    "OppPts",
+    "Reb",
+    "Ast",
+    "Stl",
+    "Blk",
+    "FG",
+    "FG %",
+    "3P",
+    "3P %",
+    "FT",
+    "FT %",
+    "OR",
+    "DR",
+    "Foul",
+    "To",
+];
